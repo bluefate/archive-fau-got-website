@@ -1,14 +1,7 @@
 ﻿################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+# https://www.visualstudio.com/en-us/docs/git/tutorial/ignore-files
 ################################################################################
 
-/FauGotWebSite/FauGotWebSite/bin/roslyn
-/FauGotWebSite/FauGotWebSite/obj/Debug
-/FauGotWebSite/FauGotWebSite/bin
-/FauGotWebSite/FauGotWebSite.Business/obj/Debug
-/FauGotWebSite/FauGotWebSite.Business/bin/Debug
-/FauGotWebSite/FauGotWebSite.Data/obj/Debug/FauGotWebSite.Data.csproj.FileListAbsolute.txt
-/FauGotWebSite/FauGotWebSite.Data/obj/Debug
-/FauGotWebSite/FauGotWebSite.Data/bin/Debug
-/FauGotWebSite/FauGotWebSite.Tools/obj/Debug
-/FauGotWebSite/FauGotWebSite.Tools/bin/Debug
+/*/*/bin/
+/*/*/obj/
