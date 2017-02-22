@@ -1,0 +1,5 @@
+\\nasqnap\Buffalo\GIT Repos\FauGot\FauGotWebSite\FauGotWebSite.Business\bin\Debug\FauGotWebSite.Business.dll
+\\nasqnap\Buffalo\GIT Repos\FauGot\FauGotWebSite\FauGotWebSite.Business\bin\Debug\FauGotWebSite.Business.pdb
+\\nasqnap\Buffalo\GIT Repos\FauGot\FauGotWebSite\FauGotWebSite.Business\obj\Debug\FauGotWebSite.Business.csprojResolveAssemblyReference.cache
+\\nasqnap\Buffalo\GIT Repos\FauGot\FauGotWebSite\FauGotWebSite.Business\obj\Debug\FauGotWebSite.Business.dll
+\\nasqnap\Buffalo\GIT Repos\FauGot\FauGotWebSite\FauGotWebSite.Business\obj\Debug\FauGotWebSite.Business.pdb

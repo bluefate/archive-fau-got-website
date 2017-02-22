@@ -1,0 +1,9 @@
+\\nasqnap\Buffalo\GIT Repos\FauGot\FauGotWebSite\FauGotWebSite.Data\obj\Debug\FauGotWebSite.Data.csprojResolveAssemblyReference.cache
+\\nasqnap\Buffalo\GIT Repos\FauGot\FauGotWebSite\FauGotWebSite.Data\bin\Debug\FauGotWebSite.Data.dll
+\\nasqnap\Buffalo\GIT Repos\FauGot\FauGotWebSite\FauGotWebSite.Data\bin\Debug\FauGotWebSite.Data.pdb
+\\nasqnap\Buffalo\GIT Repos\FauGot\FauGotWebSite\FauGotWebSite.Data\bin\Debug\FauGotWebSite.Tools.dll
+\\nasqnap\Buffalo\GIT Repos\FauGot\FauGotWebSite\FauGotWebSite.Data\bin\Debug\MySql.Data.dll
+\\nasqnap\Buffalo\GIT Repos\FauGot\FauGotWebSite\FauGotWebSite.Data\bin\Debug\FauGotWebSite.Tools.pdb
+\\nasqnap\Buffalo\GIT Repos\FauGot\FauGotWebSite\FauGotWebSite.Data\bin\Debug\MySql.Data.xml
+\\nasqnap\Buffalo\GIT Repos\FauGot\FauGotWebSite\FauGotWebSite.Data\obj\Debug\FauGotWebSite.Data.dll
+\\nasqnap\Buffalo\GIT Repos\FauGot\FauGotWebSite\FauGotWebSite.Data\obj\Debug\FauGotWebSite.Data.pdb
