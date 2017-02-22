@@ -33,10 +33,14 @@ namespace FauGotWebSite.Data
             {
                 Helper.W("Exception", ex);
             }
-            finally
-            {
-                Close();
-            }
+        }
+        ~MySqlStoreProcedure()
+        {
+            // Destructor
+            Close();
+            conn = null;
+            cmd = null;
+            ds = null;
         }
 
         public void ExecuteDataSet()
@@ -100,14 +104,14 @@ namespace FauGotWebSite.Data
             cmd.Parameters.Add(param);
         }
 
-        private void Close()
+        public void Close()
         {
             if (conn != null && conn.State != ConnectionState.Closed)
                 conn.Close();
             conn.Dispose();
         }
 
-        private void Open()
+        public void Open()
         {
             if (conn != null && conn.State != ConnectionState.Open)
                 conn.Open();
@@ -117,3 +121,5 @@ namespace FauGotWebSite.Data
 
     }
 }
+
+

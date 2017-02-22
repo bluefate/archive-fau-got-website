@@ -9,5 +9,5 @@
 
 # ignore a file type
 *.bak
-*.Debug.config
-*.Release.config
+*.config
+
