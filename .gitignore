@@ -3,5 +3,11 @@
 # https://www.visualstudio.com/en-us/docs/git/tutorial/ignore-files
 ################################################################################
 
+# ignore an entire directory
 /*/*/bin/
 /*/*/obj/
+
+# ignore a file type
+*.bak
+*.Debug.config
+*.Release.config
